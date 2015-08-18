@@ -42,4 +42,4 @@ def person(name, age, **kw)
 kw = {'city': 'Beijing', 'job': 'Engineer'}
 person('Jack', 24, **kw)
 
-def func(a, b,)
+def func(a, b, c)
